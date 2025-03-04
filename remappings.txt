@@ -1,0 +1,1 @@
+@superfluid-finance/solidity-semantic-money/=lib/superfluid-protocol-monorepo/packages/solidity-semantic-money/
